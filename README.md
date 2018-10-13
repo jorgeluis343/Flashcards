@@ -5,7 +5,7 @@ The app will present a question, and will allow when tapped on to show the answe
 
 ### App Walk-though
 
-<img src="http://recordit.co/6yC5SAJDLW" width=200><br>
+<img src= "http://recordit.co/6yC5SAJDLW" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode

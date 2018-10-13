@@ -7,7 +7,7 @@ The app will present a question, and will allow when tapped on to show the answe
 
 
 <img src=http://recordit.co/6yC5SAJDLW width=200><br>
-
+http://recordit.co/6yC5SAJDLW
 
 ## Required
 - [x] Create New Project in Xcode

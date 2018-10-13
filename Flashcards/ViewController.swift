@@ -13,8 +13,19 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-    }
-
-
 }
 
+    @IBOutlet weak var frontLabel: UILabel!
+    
+    
+    @IBOutlet weak var backLabel: UILabel!
+    
+    
+    
+    
+    @IBAction func didTapOnFlashcard(_ sender: Any) {
+        frontLabel.isHidden = true
+    }
+    
+
+}

@@ -5,6 +5,7 @@ to create flash cards with question and answer
 
 ### App Walk-though
 the app will have different view... and also will allow to enter question and answers
+
 <img src= "http://g.recordit.co/Mpxmn9F27M.gif" width=200><br> gif
 
 ## Required

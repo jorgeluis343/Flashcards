@@ -1,19 +1,24 @@
 
+## Lab 3
 
 ### App Description
-to create flash cards with question and answer
+App will allow you to create flashcards with question and answer.
+
+
 
 ### App Walk-though
-the app will have different view... and also will allow to enter question and answers
+First screen will allow the user to add more flashcards, to go to next and previous flashcard aswell, NOTE: every time botton Prev or Next is press the screen will always go to questiopn first.
+Second sreec will allow the user to enter and store new flashcards.
 
-<img src= "http://g.recordit.co/Mpxmn9F27M.gif" width=200><br> gif
+<img src="http://g.recordit.co/db4dE31rJd.gif width=200><br>
+
+
 
 ## Required
-- [x] User can open the creation screen
-- [x] User can cancel out of the creation screen
-- [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
-- [x] Push code to GitHub
+- [X] User can browse through multiple flashcards
+- [X] User can re-open the app and see previously created flashcards
+- [X] Push code to GitHub
 ## Optional
-- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [ ] User can delete a flashcard
 - [ ] User can edit existing flashcard
-- [ ] User can add multiple choice answers in the creation screen
+- [ ] User can store multiple choice questions
